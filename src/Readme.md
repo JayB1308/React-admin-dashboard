@@ -1,5 +1,5 @@
 # Admin Dashboard
 
-## Live Link: https://glittering-khapse-29b585.netlify.app/
+## Live Link: https://jay-react-admin-dashboard.netlify.app/
 
 A dashboard mockup made from react
